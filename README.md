@@ -16,9 +16,9 @@ Download [here]
 extract and copy killapp@adam.gadmz to `.local/share/gnome-shell`
 
 
-Authors : [authors]
+[Authors] : Adam Nguyen
 
 
-[here]: 
-[GNOME extensions]: 
-[authors]: https://github.com/duonggiakhanhb
+[here]: https://github.com/duonggiakhanhb/Killapp_GNOME_Extensions/archive/refs/heads/main.zip
+[GNOME extensions]: https://extensions.gnome.org/extension/4551/kill-app/
+[Authors]: https://github.com/duonggiakhanhb
