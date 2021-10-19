@@ -1,10 +1,7 @@
 const Main = imports.ui.main;
 const { St, GLib, Clutter } = imports.gi;
 const GObject = imports.gi.GObject;
-const Gio = imports.gi.Gio;
 const PanelMenu = imports.ui.panelMenu;
-const PopupMenu = imports.ui.popupMenu;
-const Me = imports.misc.extensionUtils.getCurrentExtension();
 
 
 let xkill;
