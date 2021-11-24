@@ -5,7 +5,8 @@
     "gettext-domain": "gnome-shell-extension-killapp",
     "name": "Kill App",
     "shell-version": [
-        "3.38"
+        "3.38",
+        "40"
     ],
     "url": "https://github.com/duonggiakhanhb/Killapp_GNOME_Extension",
     "uuid": "killapp@adam.gadmz",
