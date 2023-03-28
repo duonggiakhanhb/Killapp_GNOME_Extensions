@@ -6,7 +6,8 @@
     "name": "Kill App",
     "shell-version": [
         "3.38",
-        "40"
+        "40",
+        "43"
     ],
     "url": "https://github.com/duonggiakhanhb/Killapp_GNOME_Extension",
     "uuid": "killapp@adam.gadmz",
